@@ -17,3 +17,8 @@ Our project aims to **detect and monitor these aquatic creatures** to help prese
 The dataset consists of images featuring
 **🐠 fish, 🦑 jellyfish, 🐧 penguins, 🐦 puffins, 🦈 sharks, ⭐ starfishes, and 🐋 stingrays**, which represent our target classes.
 
+'''
+cd C:\Users\user\.spyder-py3
+conda activate cvproject
+streamlit run temp.py
+'''
