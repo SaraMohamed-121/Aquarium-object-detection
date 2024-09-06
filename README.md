@@ -1,7 +1,7 @@
 # Aquarium-object-detection
 # 🐠 Aquarium Project
 
-In the mesmerizing world of the undersea, there are countless amazing, lovely, and beautiful creatures that captivate us every day. These incredible beings, such as 🐬 dolphins, 🐟 fishes, ⭐ starfishes, 🐧 puffins, and more, play a crucial role in tourism for many countries. They attract tourists eager to dive and witness the breathtaking beauty of underwater nature, with iconic spots like the Blue Hole in Dahab being prime examples.
+In the mesmerizing world of the undersea, there are countless amazing, lovely, and beautiful creatures that captivate us every day. These incredible beings, such as  dolphins, fishes, starfishes, puffins, and more, play a crucial role in tourism for many countries. They attract tourists eager to dive and witness the breathtaking beauty of underwater nature, with iconic spots like the Blue Hole in Dahab being prime examples.
 
 ## 🎯 Project Overview
 
